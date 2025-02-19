@@ -14,7 +14,6 @@ nos permitirá mantener los datos estáticos de las categorias.
   * Crea un directorio llamado "assets" dentro de "src".
   * Crea dentro de "assets" un directorio llamado "iconos", "imagenes", "fonts", "favicon", "iconos_animados", ( crea los que necesites que sean estáticos ).
   * Agrega el contenido dentro de las carpetas creadas.
-  * agrega las rutas asi: " assets/iconos/miIcono.png "
   * Dentro del fichero angular.json busca la seccion assets que tendrás una configuración asi:
   * ![image](https://github.com/user-attachments/assets/c4b31eff-ef6d-4c51-b086-39725204b658)
   * Vas a sustituirlas de las siguiente manera: 
@@ -26,4 +25,8 @@ nos permitirá mantener los datos estáticos de las categorias.
         ],
 
 
-Fichero de Categorias para datos estáticos aplicando EMA.
+  * Ya puedes agregar las rutas de los iconos dentro de categoriasData.ts y se podrán llamar en los componentes.
+
+
+  ##Fichero de Categorias para datos estáticos aplicando EMA.
+  IMPORTANTE: ESTE FICHERO NO DEPENDE DE OTRO COMPONENTE PARA TRANSMITIR LA DATA ESTÁTICA.
