@@ -1,11 +1,10 @@
 # CATEGORIAS DATA:
-
-*** IMPORTANTE CONFIGURAR ASSETS EN EL PROYECTO PREVIAMENTE ***
+## categoriasdata.ts
 
 Es un fichero que debe crearse en el Directorio src/data el cual contiene las categorias y secciones de proyectos que apliquen EMA, 
 nos permitirá mantener los datos estáticos de las categorias.
 
-# Nuestro ficherpo contiene 3 elementos principales:
+# Nuestro fichero contiene 3 elementos principales:
   1. La Interface de categorias
   2. La Interface de las Secciones
   3. La Constante que llevará la Data estática.
