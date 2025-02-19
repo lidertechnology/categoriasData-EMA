@@ -1,5 +1,5 @@
 # CATEGORIAS DATA:
-## Nombre del Fichero: " categoriasdata.ts "
+## Nombre del Fichero: " categoriasData.ts "
 
 Es un fichero que debe crearse en el Directorio src/data el cual contiene las categorias y secciones de proyectos que apliquen EMA, 
 nos permitirá mantener los datos estáticos de las categorias.
