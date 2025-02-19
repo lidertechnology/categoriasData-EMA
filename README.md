@@ -5,9 +5,9 @@ Es un fichero que debe crearse en el Directorio src/data el cual contiene las ca
 nos permitirá mantener los datos estáticos de las categorias.
 
 # Nuestro fichero contiene 3 elementos principales:
-  1. La Interface de categorias
-  2. La Interface de las Secciones
-  3. La Constante que llevará la Data estática.
+  1. La Interface de Categorias: estructura de datos de Categorias.
+  2. La Interface de las Secciones: estructura de datos de las Secciones dentro de Categorias.
+  3. La Constante que llevará la Data estática: Contiene los datos que se mostrarán en los botones al renderizarse.
 
 # Recuerda que para el tema de iconos y logos estáticos debes configurar el directorio "assets" el cual esplicatemos a continuación:
 
